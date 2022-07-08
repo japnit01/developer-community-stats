@@ -55,7 +55,7 @@
     "gsap": "^3.2.6",
     "jest": "^26.4.2",
     "mdx-utils": "^0.2.0",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "nepali-date-converter": "^3.3.0",
     "node-sass": "^4.12.0",
     "prism-react-renderer": "^0.1.5",
